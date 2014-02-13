@@ -15,5 +15,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_mako.mk \
-    $(LOCAL_DIR)/full_mako.mk
+    $(LOCAL_DIR)/b2jc_mako.mk
+
