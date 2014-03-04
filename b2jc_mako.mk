@@ -30,7 +30,7 @@ PRODUCT_COPY_FILES := device/lge/mako/apns-full-conf.xml:system/etc/apns-conf.xm
 # Inherit from the common Open Source product configuration
 $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)
 
-PRODUCT_NAME := full_mako
+PRODUCT_NAME := b2jc_mako
 PRODUCT_DEVICE := mako
 PRODUCT_BRAND := Android
 PRODUCT_MODEL := AOSP on Mako
